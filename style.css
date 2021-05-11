@@ -1,0 +1,39 @@
+.devoloper {
+    position: fixed;
+    color: red;
+    bottom: 0%;
+    width: 100pc;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
